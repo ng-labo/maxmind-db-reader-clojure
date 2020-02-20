@@ -4,7 +4,7 @@ A wrapper of MaxMind-DB-Reader-java to use on Clojure.
 
 ## Usage
 
-get a [mmdb file](https://maxmind.github.io/MaxMind-DB/ "mmdb file") by your self. 
+prepare a [mmdb file](https://maxmind.github.io/MaxMind-DB/ "mmdb file") by yourself.
 
 ```
 $ lein test
